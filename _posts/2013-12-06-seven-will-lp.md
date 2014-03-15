@@ -5,7 +5,6 @@ tagline: "腾讯巴西世界杯暨体育新赛季资源推介会"
 tags : [seven, will, 花式足球, 演出]
 ---
 {% include JB/setup %}
-
 <div style="">
 “腾讯巴西世界杯暨体育新赛季资源推介会”是腾讯的世界杯主题的招商会，本次活动由cctv5的支持人段宣主持，中国花式足球团队--舞球团有幸参加了这次活动的演出，并献上了精彩的花式足球表演。
 <div><a href="http://blog.photo.sina.com.cn/showpic.html#url=http://album.sina.com.cn/pic/001T406ety6EMQEAq6yde" target="_blank"></a><a href="http://blog.photo.sina.com.cn/showpic.html#url=http://album.sina.com.cn/pic/001T406egy6EQSJCCp288" target="_blank"><img src="http://s9.sinaimg.cn/mw690/001T406egy6EQSJCCp288&amp;690" width="690" height="388" name="image_operate_19161386555696345" id="image_operate_86621394878236718"></a><br>
